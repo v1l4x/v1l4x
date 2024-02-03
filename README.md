@@ -1,4 +1,4 @@
-# <img src="https://github.com/v1l4x/v1l4x/blob/main/Miniatura.png" width="150"> Hola, soy Kevin Rodríguez Vilariño!
+# <img src="https://github.com/v1l4x/v1l4x/blob/main/Miniatura.png" width="150"> Hola, soy Kevin Rodríguez Vilariño! 👋🏼
 
 
 un apasionado de la informática y la ciberseguridad con un ferviente deseo de aprender y crecer en este fascinante campo digital.
