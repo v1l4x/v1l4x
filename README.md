@@ -2,7 +2,7 @@
 
 ¡Hola a todos! Soy Kevin, un apasionado de la informática y la ciberseguridad con un ferviente deseo de aprender y crecer en este fascinante campo digital.
 
-*Mi Enfoque Obsesivo*
+**Mi Enfoque Obsesivo**
 
 Considero que la obsesión por mis objetivos es una de mis mayores fortalezas. Cuando me comprometo con un objetivo, no me detengo hasta alcanzarlo. Esta mentalidad me impulsa a superar desafíos y a seguir creciendo continuamente.
 
