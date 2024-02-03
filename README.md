@@ -1,5 +1,9 @@
 # <img src="https://github.com/v1l4x/v1l4x/blob/main/Miniatura.png" width="150"> Hola, soy Kevin Rodríguez Vilariño! 👋🏼
 
+### ¡¡Apasionado de la ciberseguridad y el Pentesting!!
+
+
+
 Soy un apasionado de la informática con un enfoque especial en ciberseguridad. Para mí, la tecnología no es solo una carrera, ¡es mi pasión! Cada día me sumerjo más en el fascinante mundo de la ciberseguridad, adquiriendo nuevos conocimientos y habilidades que me permiten enfrentar desafíos cada vez más complejos.
 
 Además de mi dedicación a la ciberseguridad, estoy constantemente ampliando mis horizontes. He estado explorando el poder de la línea de comandos con Bash y desarrollando habilidades de programación en Python. También estoy comprometido con mejorar mi fluidez en inglés, reconociendo su importancia en un campo tan globalizado como la tecnología.
