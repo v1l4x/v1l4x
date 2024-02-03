@@ -1,36 +1,24 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
-</head>
-<body>
-    <header>
-        <h1>Kevin Rodríguez Vilariño</h1>
-    </header>
-    <section>
-        <h2>Acerca de mí</h2>
-        <p>Soy Kevin, un apasionado de la tecnología y la ciberseguridad. Mi objetivo es seguir aprendiendo y creciendo en este campo en constante evolución.</p>
-        <h2>Habilidades</h2>
-        <ul>
-            <li>Tecnología</li>
-            <li>Ciberseguridad</li>
-            <!-- Agrega más habilidades según sea necesario -->
-        </ul>
-        <h2>Proyectos destacados</h2>
-        <p>Aquí puedes mencionar algunos de tus proyectos más destacados o en los que estás trabajando actualmente.</p>
-        <h2>Contacto</h2>
-        <p>Puedes encontrarme en:</p>
-        <ul>
-            <li><a href="https://github.com/v1lax">GitHub</a></li>
-            <li><a href="https://linkedin.com/in/kevinvilariño">LinkedIn</a></li>
-          
-            <!-- Agrega otros enlaces de contacto según sea necesario -->
-        </ul>
-    </section>
-    <footer>
-        <p>&copy; 2024 Kevin Rodríguez Vilariño. Todos los derechos reservados.</p>
-    </footer>
-</body>
-</html>
+# Acerca de Mí
+
+¡Hola a todos! Soy Kevin, un apasionado de la informática y la ciberseguridad con un ferviente deseo de aprender y crecer en este fascinante campo digital.
+
+## Mi Enfoque Obsesivo
+
+Considero que la obsesión por mis objetivos es una de mis mayores fortalezas. Cuando me comprometo con un objetivo, no me detengo hasta alcanzarlo. Esta mentalidad me impulsa a superar desafíos y a seguir creciendo continuamente.
+
+## Mis Áreas de Aprendizaje
+
+Actualmente, estoy inmerso en el aprendizaje de dos poderosos lenguajes de programación: Bash y Python. Estos lenguajes no solo me permiten expandir mis habilidades técnicas, sino que también me brindan herramientas para abordar una amplia gama de problemas y proyectos.
+
+Además, estoy dedicando tiempo y esfuerzo al estudio del idioma inglés. Reconozco la importancia de la comunicación efectiva en un entorno internacional y estoy comprometido a mejorar mis habilidades lingüísticas para poder colaborar y comunicarme con personas de todo el mundo.
+
+## Mis Intereses Profesionales
+
+Aunque actualmente no cuento con experiencia laboral en el campo de la informática y la ciberseguridad, estoy decidido a adquirirla y aportar todo mi entusiasmo y conocimientos a cualquier proyecto que se me presente.
+
+Mis áreas de interés también incluyen la inteligencia artificial, la seguridad informática y el desarrollo web. Estoy emocionado por explorar estas áreas y contribuir al avance y la innovación en el mundo de la tecnología.
+
+## Conclusión
+
+Estoy ansioso por seguir aprendiendo, creciendo y contribuyendo al emocionante mundo de la tecnología y la ciberseguridad. Siempre estoy abierto a nuevas oportunidades y desafíos que me permitan expandir mis conocimientos y habilidades.
+
