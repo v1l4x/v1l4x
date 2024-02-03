@@ -1,22 +1,13 @@
 # <img src="https://github.com/v1l4x/v1l4x/blob/main/Miniatura.png" width="150"> Hola, soy Kevin Rodríguez Vilariño! 👋🏼
 
+Soy un apasionado de la informática con un enfoque especial en ciberseguridad. Para mí, la tecnología no es solo una carrera, ¡es mi pasión! Cada día me sumerjo más en el fascinante mundo de la ciberseguridad, adquiriendo nuevos conocimientos y habilidades que me permiten enfrentar desafíos cada vez más complejos.
 
-un apasionado de la informática y la ciberseguridad con un ferviente deseo de aprender y crecer en este fascinante campo digital.
+Además de mi dedicación a la ciberseguridad, estoy constantemente ampliando mis horizontes. He estado explorando el poder de la línea de comandos con Bash y desarrollando habilidades de programación en Python. También estoy comprometido con mejorar mi fluidez en inglés, reconociendo su importancia en un campo tan globalizado como la tecnología.
 
-**Mi Enfoque Obsesivo**
+Actualmente, me encuentro inmerso en el estudio y la práctica de las redes informáticas, buscando comprender su funcionamiento desde sus fundamentos hasta su implementación avanzada. Mi naturaleza sociable y mi habilidad para interactuar con el público me permiten no solo enfrentar desafíos técnicos, sino también colaborar eficazmente en equipos y proyectos.
 
-Considero que la obsesión por mis objetivos es una de mis mayores fortalezas. Cuando me comprometo con un objetivo, no me detengo hasta alcanzarlo. Esta mentalidad me impulsa a superar desafíos y a seguir creciendo continuamente.
+Cuando me involucro en un proyecto, me entrego por completo. Mi compromiso es dar el 100%, buscando siempre alcanzar los objetivos con excelencia y superar las expectativas. Creo firmemente en el poder del trabajo en equipo y en el intercambio de conocimientos para lograr resultados excepcionales.
 
-**Mis Áreas de Aprendizaje**
+¡Estoy emocionado por lo que el futuro me depara en el mundo de la tecnología! Si compartes mi pasión por la informática y la ciberseguridad, ¡me encantaría conectar contigo y explorar nuevas oportunidades juntos!
 
-Actualmente, estoy inmerso en el aprendizaje de dos poderosos lenguajes de programación: Bash y Python. Estos lenguajes no solo me permiten expandir mis habilidades técnicas, sino que también me brindan herramientas para abordar una amplia gama de problemas y proyectos.
-
-Además, estoy dedicando tiempo y esfuerzo al estudio del idioma inglés. Reconozco la importancia de la comunicación efectiva en un entorno internacional y estoy comprometido a mejorar mis habilidades lingüísticas para poder colaborar y comunicarme con personas de todo el mundo.
-
-**Mis Intereses Profesionales**
-
-Aunque actualmente no cuento con experiencia laboral en el campo de la informática y la ciberseguridad, estoy decidido a adquirirla y aportar todo mi entusiasmo y conocimientos a cualquier proyecto que se me presente.
-
-Mis áreas de interés también incluyen la inteligencia artificial, la seguridad informática y el desarrollo web. Estoy emocionado por explorar estas áreas y contribuir al avance y la innovación en el mundo de la tecnología.
-Estoy ansioso por seguir aprendiendo, creciendo y contribuyendo al emocionante mundo de la tecnología y la ciberseguridad. Siempre estoy abierto a nuevas oportunidades y desafíos que me permitan expandir mis conocimientos y habilidades.
 
