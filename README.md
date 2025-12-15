@@ -21,20 +21,5 @@ Me apasiona la informática y la tecnología, y estoy comprometido en construir 
 
 ---
 
-## 📂 Repositorios actuales
-
-| Proyecto | Descripción |
-|----------|-------------|
-| **Encriptador** | Script interactivo en Bash para cifrado y verificación de archivos. Demuestra **scripting, automatización y manejo de datos sensibles**, habilidades útiles para tareas de seguridad y administración de sistemas. |
-
----
-
-## ⚡ Cómo navegar en mi perfil
-1. Explora el repositorio **Encriptador** para ver el proyecto práctico que he desarrollado.  
-2. Cada repositorio futuro seguirá este mismo enfoque: **práctico, documentado y profesional**.  
-3. Este perfil funciona como un **portfolio inicial**, mostrando mi compromiso y progreso en ciberseguridad.
-
----
-
 > Este perfil refleja mi **compromiso con el aprendizaje práctico y la profesionalidad**, documentando mi camino hacia una carrera en ciberseguridad.
 
