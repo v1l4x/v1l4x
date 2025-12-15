@@ -29,7 +29,7 @@ Me apasiona la informática y la tecnología, y estoy comprometido en construir 
 
 ---
 
-## ⚡ Cómo navegar este perfil
+## ⚡ Cómo navegar en mi perfil
 1. Explora el repositorio **Encriptador** para ver el proyecto práctico que he desarrollado.  
 2. Cada repositorio futuro seguirá este mismo enfoque: **práctico, documentado y profesional**.  
 3. Este perfil funciona como un **portfolio inicial**, mostrando mi compromiso y progreso en ciberseguridad.
