@@ -1,4 +1,3 @@
-#  Junior Cybersecurity Analyst
 # 👋 Bienvenido a mi perfil de GitHub
 
 Soy un profesional en formación en **ciberseguridad**, con enfoque en **seguridad defensiva y operaciones SOC**.  
