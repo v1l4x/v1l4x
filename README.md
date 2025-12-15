@@ -1,8 +1,6 @@
 # <img src="https://github.com/v1l4x/v1l4x/blob/main/Miniatura.png" width="150"> Junior Cybersecurity Analyst 👋🏼
 ### Bienvenido a mi perfil de GitHub
 
-# ![https://github.com/v1l4x](https://github.com/v1l4x/v1l4x/blob/main/Banner.png)
-
 Soy un profesional en formación en **ciberseguridad**, enfocado en **seguridad defensiva y operaciones SOC**. Me apasiona la informática y la tecnología, y estoy comprometido en construir una carrera sólida en seguridad de la información.
 
 Actualmente estoy desarrollando competencias en:  
