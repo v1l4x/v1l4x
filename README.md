@@ -1,4 +1,4 @@
-# <img src="https://github.com/v1l4x/v1l4x/blob/main/Miniatura.png" width="150"> Junior Cybersecurity Analyst | SOC & Security Operations👋🏼
+# <img src="https://github.com/v1l4x/v1l4x/blob/main/Miniatura.png" width="150"> Junior Cybersecurity Analyst👋🏼
 ### Bienvenido a mi perfil de GitHub
 
 # ![https://github.com/v1l4x](https://github.com/v1l4x/v1l4x/blob/main/Banner.png)
