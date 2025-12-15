@@ -1,18 +1,41 @@
 #  Junior Cybersecurity Analyst
-### Bienvenido a mi perfil de GitHub
+# 👋 Bienvenido a mi perfil de GitHub
 
-Soy un profesional en formación en **ciberseguridad**, enfocado en **seguridad defensiva y operaciones SOC**. Me apasiona la informática y la tecnología, y estoy comprometido en construir una carrera sólida en seguridad de la información.
+Soy un profesional en formación en **ciberseguridad**, con enfoque en **seguridad defensiva y operaciones SOC**.  
+Me apasiona la informática y la tecnología, y estoy comprometido en construir una carrera sólida en seguridad de la información.
 
-Actualmente estoy desarrollando competencias en:  
-- **Monitorización y análisis de alertas de seguridad (Windows/Linux)**  
-- **Redes y protocolos LAN/WAN**  
-- **Gestión de incidentes y triaje SOC**  
-- **Frameworks de seguridad: MITRE ATT&CK, NIST CSF**  
-- **Automatización y scripting con Python y Bash**
+---
 
-Me considero una persona **curiosa, comprometida y orientada al aprendizaje práctico**, capaz de trabajar en equipo y de enfrentar nuevos desafíos con responsabilidad.
+## 🚀 Mis objetivos
+- Aprender y practicar habilidades prácticas en **ciberseguridad y automatización de tareas**.  
+- Desarrollar competencias en **Windows/Linux, redes y scripting** (Bash y Python).  
+- Construir un portfolio profesional que refleje mi aprendizaje y progreso en seguridad de la información.
 
-Este perfil refleja mi camino de aprendizaje y práctica en ciberseguridad, compartiendo proyectos, laboratorios y avances técnicos que demuestran mi compromiso por crecer en el sector.
+---
 
-**Objetivo profesional:** aplicar estos conocimientos en un entorno SOC real y progresar hacia roles avanzados de seguridad.
+## 📚 Habilidades y conocimientos
+- 🖥️ **Sistemas y redes:** Windows, Linux, Active Directory, LAN/WAN  
+- 🔍 **Monitorización y análisis básico:** alertas, logs, revisión de archivos  
+- 🛠️ **Scripting y automatización:** Python y Bash  
+- 🛡️ **Seguridad de la información:** cifrado, hashes, integridad de datos  
+- 🌐 **Aprendizaje continuo:** laboratorios prácticos y ejercicios de scripting
+
+---
+
+## 📂 Repositorios actuales
+
+| Proyecto | Descripción |
+|----------|-------------|
+| **Encriptador** | Script interactivo en Bash para cifrado y verificación de archivos. Demuestra **scripting, automatización y manejo de datos sensibles**, habilidades útiles para tareas de seguridad y administración de sistemas. |
+
+---
+
+## ⚡ Cómo navegar este perfil
+1. Explora el repositorio **Encriptador** para ver el proyecto práctico que he desarrollado.  
+2. Cada repositorio futuro seguirá este mismo enfoque: **práctico, documentado y profesional**.  
+3. Este perfil funciona como un **portfolio inicial**, mostrando mi compromiso y progreso en ciberseguridad.
+
+---
+
+> Este perfil refleja mi **compromiso con el aprendizaje práctico y la profesionalidad**, documentando mi camino hacia una carrera en ciberseguridad.
 
