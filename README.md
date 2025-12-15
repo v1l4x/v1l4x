@@ -10,7 +10,7 @@ Actualmente estoy desarrollando competencias en:
 - Redes y protocolos LAN/WAN  
 - Gestión de incidentes y triaje SOC  
 - Frameworks de seguridad: MITRE ATT&CK, NIST CSF  
-- Automatización básica con Python y Bash  
+- **Automatización básica con Python y Bash**  
 
 Me considero una persona **curiosa, comprometida y orientada al aprendizaje práctico**, capaz de trabajar en equipo y de enfrentar nuevos desafíos con responsabilidad.  
 
