@@ -17,11 +17,11 @@ Especializado en la automatización de tareas de seguridad y auditoría de siste
 ### 🚀 Proyectos en Desarrollo (Ciberseguridad)
 
 #### 🛠️ Automatización y Auditoría (Bash)
-- **[InspectorBin]([https://github.com/v1l4x/InspectorBin)**: Herramienta de diagnóstico para auditoría de integridad de binarios y validación de rutas críticas.
-- **[CryptoSync]([https://github.com/v1l4x/CryptoSync])**: Suite de gestión criptográfica para flujos GPG y validación de integridad MD5.
+- **[InspectorBin](https://github.com/v1l4x/InspectorBin)**: Herramienta de diagnóstico para auditoría de integridad de binarios y validación de rutas críticas.
+- **[CryptoSync](https://github.com/v1l4x/CryptoSync)**: Suite de gestión criptográfica para flujos GPG y validación de integridad MD5.
 
 #### 📝 Documentación y Laboratorios
-- **[Writeups & Labs]([https://github.com/v1l4x/Cybersecurity-writeups])**: Documentación detallada de metodologías y resolución de entornos controlados.
+- **[Writeups & Labs](https://github.com/v1l4x/Cybersecurity-writeups)**: Documentación detallada de metodologías y resolución de entornos controlados.
 
 > 💡 *Próximamente: Integración de modelos de lenguaje (LLMs) locales para el análisis automatizado de vulnerabilidades.*
 
@@ -35,5 +35,4 @@ Especializado en la automatización de tareas de seguridad y auditoría de siste
 ---
 
 ### 📫 Contacto
-- **LinkedIn:** [Enlace a tu perfil]
-- **Email:** [Tu correo profesional]
+- **LinkedIn:** https://www.linkedin.com/in/kevinvilari%C3%B1o/
